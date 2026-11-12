@@ -2,7 +2,7 @@
 
 Revisão local 1.3, 11/11/2026. A pasta contém o dicionário baseado no DDL, o PDF da AT2 enviado pelo grupo e o DER exportado pelo MySQL Workbench 8.0.47. O DER foi conferido com 19 tabelas, 115 colunas e 21 relacionamentos. A AT2 ainda tem divergências em relação ao DDL; consulte `docs/CONFERENCIA_AT2.md`. Esta versão não deve ser apresentada como documentalmente aprovada até corrigirem o PDF e conferirem os três artefatos.
 
-Site publicado anteriormente: https://carlosjb7.github.io/dicionario-dados-dolly/ . Repositório: https://github.com/carlosjb7/dicionario-dados-dolly . Esta pasta é uma versão local preparada; ainda não foi publicada a revisão atual.
+Site publicado anteriormente: [https://henriquedemedeiroselias.github.io/dicionario_dados_dolly/] . Repositório: [https://github.com/henriquedemedeiroselias/dicionario_dados_dolly] . Esta pasta é uma versão local preparada; ainda não foi publicada a revisão atual.
 
 ## Estrutura
 
@@ -34,7 +34,7 @@ O dicionário descreve 19 tabelas e 115 atributos do DDL. O DER PNG foi exportad
 
 ## Atualização do GitHub Pages
 
-O repositório público existente é `carlosjb7/dicionario-dados-dolly`, na branch `main`. Depois da aprovação do grupo:
+O repositório público existente é `henriquedemedeiroselias/dicionario-dados-dolly`, na branch `main`. Depois da aprovação do grupo:
 
 1. Atualize os arquivos do site e mantenha `index.html` na raiz, junto de `style.css` e `script.js`.
 2. Preserve as pastas `docs/` e `assets/` e seus nomes, incluindo maiúsculas e minúsculas. O servidor do GitHub diferencia, por exemplo, `DER.png` de `der.png`.
